@@ -1,0 +1,26 @@
+[
+  {
+    "model": "Challenger",
+    "manufacturer": "Dodge",
+    "price": "45000",
+    "image": "src/assets/images/dodge-challenger.png"
+  },
+  {
+    "model": "Thunderbird",
+    "manufacturer": "Ford",
+    "price": "60000",
+    "image": "src/assets/images/ford-thunderbird.png"
+  },
+  {
+    "model": "Cougar",
+    "manufacturer": "Mercury",
+    "price": "38000",
+    "image": "src/assets/images/mercury-cougar.png"
+  },
+  {
+    "model": "Cuda",
+    "manufacturer": "Plymouth",
+    "price": "49000",
+    "image": "src/assets/images/plymouth-cuda.png"
+  }
+]
